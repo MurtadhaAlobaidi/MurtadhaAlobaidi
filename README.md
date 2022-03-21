@@ -12,3 +12,5 @@ Connect with me:
 
 
 
+
+<a href=”https://www.linkedin.com/in/murtadha-alobaidi/"><img align=”left” src=”linkedin.png ”icon | LinkedIn” width=”21px”/></a>
