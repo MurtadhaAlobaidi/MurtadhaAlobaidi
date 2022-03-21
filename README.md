@@ -10,4 +10,5 @@ Connect with me:
 [Linkedin](https://www.linkedin.com/in/murtadha-alobaidi/).
 
  
-<a href="https://www.linkedin.com/in/murtadha-alobaidi/"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" alt="murtadha Alobaidi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/murtadha-alobaidi/">
+<img align="left" src="https://github.com/mhaao/mhaao/blob/main/icon/linkedin.png" alt="murtadha Alobaidi | LinkedIn" width="21px"/></a>
