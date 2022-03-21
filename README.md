@@ -8,9 +8,3 @@ I'm very interested in using data and developing smart solutions in order to mak
 
 Connect with me:
 [Linkedin](https://www.linkedin.com/in/murtadha-alobaidi/).
-
-
-
-
-
-<a href=”https://www.linkedin.com/in/murtadha-alobaidi/"><img align=”left” src=”linkedin.png ”icon | LinkedIn” width=”21px”/></a>
