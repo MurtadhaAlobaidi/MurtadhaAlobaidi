@@ -25,8 +25,8 @@ I'm very interested in using data and developing smart solutions in order to mak
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/murtadha-alobaidi/">
-<img align="left" src="https://github.com/mhaao/mhaao/blob/main/icon/linkedin.png" alt="murtadha Alobaidi | LinkedIn" height="30" width="30"/></a> <a href="https://www.facebook.com/MemoSpoort">
-<img align="left" src="https://github.com/mhaao/mhaao/blob/main/icon/facebook.png" alt="murtadha Alobaidi | Facebook" "height="30" width="30"/></a>                                                                                                                                             
+<img align="left" src="https://github.com/mhaao/mhaao/blob/main/icon/linkedin.png" alt="murtadha Alobaidi | LinkedIn" height="30" width="30"/></a> 
+                                                                                                                                            
 </p>
                                                                                                                                              
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhaao&label=Profile%20views&color=0e75b6&style=flat" alt="mhaao" /> </p>
