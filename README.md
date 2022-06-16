@@ -11,7 +11,7 @@ I'm very interested in using data and developing smart solutions in order to mak
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
    <a href="https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+  <img src="https://github.com/mhaao/mhaao/blob/main/icon/Azure-Data-Studio.jpeg" alt="Azure" width="60" height="60"/> 
   </a> 
 </p>
 
