@@ -14,6 +14,10 @@ I'm very interested in using data and developing smart solutions in order to mak
    <a href="https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/mhaao/mhaao/blob/main/icon/Azure-Data-Studio.jpeg" alt="Azure" width="60" height="60"/> 
   </a> 
+  
+     <a href="https://dbeaver.io" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/mhaao/mhaao/blob/main/icon/DBeaver.png" alt="Azure" width="60" height="60"/> 
+  </a> 
 </p>
 
 
