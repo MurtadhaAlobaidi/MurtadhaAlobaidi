@@ -15,8 +15,8 @@ I'm very interested in using data and developing smart solutions in order to mak
   <img src="https://github.com/mhaao/mhaao/blob/main/icon/Azure-Data-Studio.jpeg" alt="Azure" width="60" height="60"/> 
   </a> 
   
-     <a href="https://dbeaver.io" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/mhaao/mhaao/blob/main/icon/DBeaver.png" alt="Azure" width="60" height="60"/> 
+  <a href="https://dbeaver.io" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/mhaao/mhaao/blob/main/icon/DBeaver.png" alt="Azure" width="40" height="60"/> 
   </a> 
 </p>
 
