@@ -11,7 +11,7 @@ I'm very interested in using data and developing smart solutions to make people'
 
 ### 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Murtadha_Alobaidi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murtadha-alobaidi/)
-[![Email](https://img.shields.io/badge/Email-murtadha.alobaidi%40example.com-red?style=for-the-badge&logo=gmail)](mailto:murtadha.alobaidi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-murtadha.alobaidi%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:murtadha.alobaidi@gmail.com)
 
 ---
 
